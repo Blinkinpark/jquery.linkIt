@@ -11,10 +11,6 @@
 		text: 'Click Me',
 		target: '_blank'
 	});
-=======
-0.1.0
-
-##Usage##
 
 ##Vendors##
 jQuery - [http://jquery.com](http://jqyery.com)
